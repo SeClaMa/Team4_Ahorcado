@@ -1,0 +1,10 @@
+C:\Users\gerardo.aguilar\source\repos\SeClaMa\Team4_Ahorcado\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\gerardo.aguilar\source\repos\SeClaMa\Team4_Ahorcado\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\gerardo.aguilar\source\repos\SeClaMa\Team4_Ahorcado\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\gerardo.aguilar\source\repos\SeClaMa\Team4_Ahorcado\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csprojAssemblyReference.cache
+C:\Users\gerardo.aguilar\source\repos\SeClaMa\Team4_Ahorcado\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Form1.resources
+C:\Users\gerardo.aguilar\source\repos\SeClaMa\Team4_Ahorcado\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+C:\Users\gerardo.aguilar\source\repos\SeClaMa\Team4_Ahorcado\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.cache
+C:\Users\gerardo.aguilar\source\repos\SeClaMa\Team4_Ahorcado\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\gerardo.aguilar\source\repos\SeClaMa\Team4_Ahorcado\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\gerardo.aguilar\source\repos\SeClaMa\Team4_Ahorcado\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
